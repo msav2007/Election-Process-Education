@@ -1,0 +1,32 @@
+﻿# Node
+node_modules/
+.next/
+coverage/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+pytest-cache-files-*/
+
+# Env files
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+
+# Logs
+*.log
+
+# Build
+dist/
+build/
+
+# Test and temp output
+.tmp/
